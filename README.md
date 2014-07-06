@@ -12,7 +12,7 @@ The example project is a Java EE 7 JaxRS Application. Its contained a simple ech
 with two service functions.
 
 - echo (The message entered will be given as echo) 
-![Echo Swagger Api Doc](https://github.com/K0NRAD/swagger-wildfly-resteasy/master/raw/resources/swagger-wildfly-resteasy-001.png "Echo Swagger Api Doc")
+![Echo Swagger Api Doc](https://github.com/K0NRAD/swagger-wildfly-resteasy/raw/master/doc/resources/swagger-wildfly-resteasy-001.png "Echo Swagger Api Doc")
 - reverse echo (The message entered will be given as reverse echo)
 
 
