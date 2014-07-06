@@ -11,9 +11,13 @@ The configuration is done with annotations, it's not web.xml required.
 The example project is a Java EE 7 JaxRS Application. Its contained a simple echo service
 with two service functions.
 
-- echo (The message entered will be given as echo) 
-![Echo Swagger Api Doc](https://github.com/K0NRAD/swagger-wildfly-resteasy/raw/master/doc/resources/swagger-wildfly-resteasy-001.png "Echo Swagger Api Doc")
+- echo (The message entered will be given as echo)
+ 
+![Echo Swagger Api Doc](https://github.com/K0NRAD/swagger-wildfly-resteasy/raw/master/doc/resources/swagger-wildfly-resteasy-002.png)
+
 - reverse echo (The message entered will be given as reverse echo)
+
+![Reverse echo Swagger Api Doc](https://github.com/K0NRAD/swagger-wildfly-resteasy/raw/master/doc/resources/swagger-wildfly-resteasy-001.png)
 
 
 ## Wildfly profile
