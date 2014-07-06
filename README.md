@@ -24,8 +24,9 @@ with two service functions.
 
 The example is tested on Wildfly 8.0.0.Final with standalone profile.   
 
-## Special thanks
+## Special thanks to
 
+- Wordnik for the great [Swagger tool](https://github.com/wordnik)
 - Adam Bean for the [Java EE 7 maven archetype] (https://github.com/AdamBien/javaee7-essentials-archetype)
 - Jen-Ming Chung for the Swagger / Java EE example [Swagger 4 Java EE](https://github.com/jmchung/swagger4javaee)
  
